@@ -1,0 +1,112 @@
+[
+  {
+    "id": 0,
+    "urlImage":"http://192.168.1.11:8081/public/images/travel/Nayagra.png",
+    "title": "Nayagra Falls",
+    "locate": "Newyork, USA",
+    "rating": "4.5",
+    "price": "399",
+    "description": "Lorem ipsum dolor sit amet, consectetur ngdtf adipiscing elit. Est vel odio elementum non id  gvenenatis, elementum. Enim augue velit tristique eu viverra. Massa.Est  odio elementum ...See More",
+    "activities": [
+    "Camping",
+    "Party",
+    "Food",
+    "Transport",
+    "Bathroom"
+    ],
+    "youtubeUrl":[
+    "https://youtu.be/IyBq4AdBKJI",
+    "https://youtu.be/IyBq4AdBKJI",
+    "https://youtu.be/IyBq4AdBKJI",
+    "https://youtu.be/IyBq4AdBKJI"
+    ]
+  },
+  {
+    "id": 1,
+    "urlImage":"http://192.168.1.11:8081/public/images/travel/paris.png",
+    "title": "Eiffel Tower",
+    "locate": "Paris, France",
+    "rating": "4.8",
+    "price": "585",
+    "description": "Lorem ipsum dolor sit amet, consectetur ngdtf adipiscing elit. Est vel odio elementum non id  gvenenatis, elementum. Enim augue velit tristique eu viverra. Massa.Est  odio elementum ...See More",
+    "activities": [
+    "Hotel",
+    "Party",
+    "Food",
+    "Transport",
+    "Bathroom"
+    ],
+    "youtubeUrl":[
+    "https://youtu.be/8Sucd2UZHiM",
+    "https://youtu.be/8Sucd2UZHiM",
+    "https://youtu.be/8Sucd2UZHiM",
+    "https://youtu.be/8Sucd2UZHiM"
+    ]
+  },
+  {
+    "id": 2,
+    "urlImage":"http://192.168.1.11:8081/public/images/travel/montreal.png",
+    "title": "Montreal City",
+    "locate": "Montreal, Canada",
+    "rating": "4.2",
+    "price": "499",
+    "description": "Lorem ipsum dolor sit amet, consectetur ngdtf adipiscing elit. Est vel odio elementum non id  gvenenatis, elementum. Enim augue velit tristique eu viverra. Massa.Est  odio elementum ...See More",
+    "activities": [
+    "Hotel",
+    "Party",
+    "Food",
+    "Transport",
+    "Bathroom"
+    ],
+    "youtubeUrl":[
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4"
+    ]
+  },
+  {
+    "id": 3,
+    "urlImage":"http://192.168.1.11:8081/public/images/travel/newyork.png",
+    "title": "New York",
+    "locate": "New York, USA",
+    "rating": "4.8",
+    "price": "399",
+    "description": "Lorem ipsum dolor sit amet, consectetur ngdtf adipiscing elit. Est vel odio elementum non id  gvenenatis, elementum. Enim augue velit tristique eu viverra. Massa.Est  odio elementum ...See More",
+    "activities": [
+    "Hotel",
+    "Party",
+    "Food",
+    "Transport",
+    "Bathroom"
+    ],
+    "youtubeUrl":[
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4"
+    ]
+  },
+  {
+    "id": 4,
+    "urlImage":"http://192.168.1.11:8081/public/images/travel/lyon.png",
+    "title": "Lyon",
+    "locate": "Lyon, France",
+    "rating": "4.2",
+    "price": "399",
+    "description": "Lorem ipsum dolor sit amet, consectetur ngdtf adipiscing elit. Est vel odio elementum non id  gvenenatis, elementum. Enim augue velit tristique eu viverra. Massa.Est  odio elementum ...See More",
+    "activities": [
+    "Hotel",
+    "Party",
+    "Food",
+    "Transport",
+    "Bathroom"
+    ],
+    "youtubeUrl":[
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4",
+    "https://youtu.be/7D-ERddm9J4"
+    ]
+  }
+]
